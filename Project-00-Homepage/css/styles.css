@@ -6,6 +6,7 @@ body {
 
 .thanks {
   font-size: 0.8rem;
+  text-align: center;
 }
 
 .lead b {
@@ -210,17 +211,6 @@ body {
   .papers {
     margin-top: 15px;
   }
-}
-ul > li {
-  color: green;
-}
-
-ul > ol > li {
-  color: blue;
-}
-
-ul > ol > ol {
-  color: orange;
 }
 
 /* SCSS */
